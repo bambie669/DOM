@@ -1,1 +1,5 @@
 # dom
+
+Fisier pentru repo.
+
+:-)
